@@ -26,4 +26,4 @@ The website is built, maintained and administered by Chris.
 
 **What is the goal of this project?**
 
-This website is used to feature new content related to themes of technology, decentralization, autonomy and social justice.
+This website is an experiment in building websites on distributed platforms.
